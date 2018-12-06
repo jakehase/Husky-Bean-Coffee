@@ -1,0 +1,21 @@
+p.blocktext {
+    font-family: Arial;
+    margin-left: auto;
+    margin-right: auto;
+    width:50em
+}
+html {
+    background: url('../images/background2.jpg') no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position; center;
+}
+img {
+    border-style: groove;
+    border-width: 3px;
+    border-color: black;
+}
+h1 {
+    color: white;
+    font-family: Arial;
+}
