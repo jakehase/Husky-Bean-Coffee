@@ -151,12 +151,12 @@ p.blocktext {
     padding-bottom: 100px;   	
 }
 
+/* BLOG HYPERLINK */
 .blog a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
     color: #818181;
-    display: block;
 }
 
 .blog a:hover {
